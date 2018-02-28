@@ -16,6 +16,6 @@ layout: default
 
 ### Links
 
-
+短(https://www.moedict.tw/'%E7%9F%AD)
 
 - - -
